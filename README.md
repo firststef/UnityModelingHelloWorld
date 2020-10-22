@@ -7,7 +7,7 @@ For our model we used a cube as the base and extruded sides to create the finger
 
 Grab animation
 
-![Gif demo](grap.gif)
+![Gif demo](grab.gif)
 
 Point animation
 
