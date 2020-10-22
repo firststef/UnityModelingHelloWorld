@@ -17,6 +17,6 @@ Wave animation
 
 ![Gif demo](wave.gif)
 
-Team:
-Petrovici Stefan
+Team:\
+Petrovici Stefan\
 Camelia Lupancu
