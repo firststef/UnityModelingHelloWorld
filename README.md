@@ -5,13 +5,13 @@ Create 3 animations for a hand model. You can create this model by yourself or i
 
 For our model we used a cube as the base and extruded sides to create the fingers.
 
-Grab animation
-
-![Gif demo](grab.gif)
-
 Point animation
 
 ![Gif demo](point.gif)
+
+Grab animation
+
+![Gif demo](grab.gif)
 
 Wave animation
 
